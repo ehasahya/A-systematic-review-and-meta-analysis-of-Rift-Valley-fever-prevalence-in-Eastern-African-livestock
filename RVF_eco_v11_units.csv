@@ -1,0 +1,61 @@
+unit_id,country,admin_level,admin_unit,n_matches,flood_max_events,flood,urban_23_30,setting,wild_dist_km,national_park,border_dist_km,border
+U01,Ethiopia,GAUL2,Nuer,1,4,yes,0.414,rural,0.0,yes,0.0,yes
+U02,Ethiopia,GAUL2,Shabelle,1,6,yes,0.125,rural,0.0,yes,0.0,yes
+U03,Ethiopia,GAUL2,South Omo,1,9,yes,0.224,rural,0.0,yes,0.0,yes
+U04,Ethiopia,GAUL2,Zone 3,1,2,yes,0.109,rural,0.0,yes,71.336,no
+U05,Kenya,GAUL2,Baringo,1,4,yes,0.106,rural,0.0,yes,83.524,no
+U06,Kenya,GAUL2,Busia,1,3,yes,0.894,rural,28.959,no,0.0,yes
+U07,Kenya,GAUL2,Garissa,1,1,yes,0.359,rural,0.0,yes,0.0,yes
+U08,Kenya,GAUL2,Isiolo,1,2,yes,0.083,rural,0.0,yes,154.854,no
+U09,Kenya,GAUL2,Kiambu,1,1,yes,13.611,urban,7.117,no,107.599,no
+U10,Kenya,GAUL2,Laikipia,1,1,yes,0.184,rural,0.0,yes,175.469,no
+U11,Kenya,GAUL2,Machakos,1,6,yes,1.029,rural,0.0,yes,94.223,no
+U12,Kenya,GAUL2,Makueni,1,2,yes,0.126,rural,0.0,yes,43.639,no
+U13,Kenya,GAUL2,Migori,1,6,yes,1.421,rural,2.829,yes,0.0,yes
+U14,Kenya,GAUL2,Mombasa,1,9,yes,56.323,urban,0.0,yes,0.0,yes
+U15,Kenya,GAUL2,Nakuru,1,4,yes,2.948,rural,0.0,yes,116.255,no
+U16,Kenya,GAUL2,Nyeri,1,1,yes,0.844,rural,0.0,yes,181.288,no
+U17,Kenya,GAUL2,Taita Taveta,1,10,yes,0.126,rural,0.0,yes,0.0,yes
+U18,Kenya,GAUL2,Tana River,1,11,yes,0.046,rural,0.0,yes,116.92,no
+U19,Kenya,GAUL2,Trans Nzoia,1,2,yes,2.209,rural,0.0,yes,0.0,yes
+U20,Madagascar,GAUL2,Mananjary,1,5,yes,0.163,rural,21.79,no,672.885,no
+U21,Rwanda,GAUL2,Bugesera,1,10,yes,2.23,rural,48.476,no,0.0,yes
+U22,Rwanda,GAUL2,Gakenke,1,0,no,0.853,rural,5.182,yes,12.15,no
+U23,Rwanda,GAUL2,Kamonyi,1,0,no,4.423,rural,29.089,no,13.897,no
+U24,Rwanda,GAUL2,Kirehe,1,2,yes,0.854,rural,0.0,yes,0.0,yes
+U25,Rwanda,GAUL2,Ngoma,1,11,yes,2.477,rural,16.989,no,0.0,yes
+U26,Rwanda,GAUL2,Nyagatare,1,2,yes,1.805,rural,0.0,yes,0.0,yes
+U27,Tanzania,GAUL2,Bahi,1,6,yes,0.053,rural,9.599,no,307.029,no
+U28,Tanzania,GAUL2,Ikungi,1,2,yes,0.056,rural,14.287,no,316.304,no
+U29,Tanzania,GAUL2,Ilala,1,6,yes,64.518,urban,29.784,no,233.703,no
+U30,Tanzania,GAUL2,Kibondo,1,4,yes,0.333,rural,0.0,yes,0.0,yes
+U31,Tanzania,GAUL2,Kyela,1,7,yes,3.369,rural,4.674,yes,0.0,yes
+U32,Tanzania,GAUL2,Momba,1,2,yes,0.152,rural,82.119,no,0.0,yes
+U33,Tanzania,GAUL2,Morogoro,1,3,yes,0.017,rural,0.0,yes,215.98,no
+U34,Tanzania,GAUL2,Rufiji,1,5,yes,0.137,rural,0.0,yes,271.062,no
+U35,Tanzania,GAUL2,Sengerema,1,13,yes,1.582,rural,0.676,yes,117.628,no
+U36,Tanzania,GAUL2,Simanjiro,1,5,yes,0.034,rural,0.0,yes,27.694,no
+U37,Tanzania,GAUL2,Tunduma,1,0,no,22.428,urban,94.937,no,0.0,yes
+U38,Uganda,GAUL1,Hoima,1,3,yes,0.378,rural,0.0,yes,0.0,yes
+U39,Uganda,GAUL1,Kabale,1,4,yes,1.028,rural,0.0,yes,0.0,yes
+U40,Uganda,GAUL1,Kanungu,1,0,no,0.0,rural,0.0,yes,0.0,yes
+U41,Uganda,GAUL1,Kasese,1,13,yes,2.857,rural,0.0,yes,0.0,yes
+U42,Uganda,GAUL1,Kibaale,1,10,yes,0.14,rural,0.0,yes,6.397,no
+U43,Uganda,GAUL1,Kisoro,1,5,yes,0.752,rural,0.0,yes,0.0,yes
+U44,Uganda,GAUL1,Masindi,1,9,yes,0.354,rural,0.0,yes,24.756,no
+U45,Uganda,GAUL1,Rubirizi,1,7,yes,0.179,rural,0.0,yes,0.92,no
+U46,Uganda,GAUL1,Ssembabule,1,2,yes,0.171,rural,11.8,no,72.596,no
+U47,Zambia,GAUL2,Chadiza,1,1,yes,0.122,rural,1.176,yes,0.0,yes
+U48,Zambia,GAUL2,Chavuma,1,9,yes,0.0,rural,9.229,no,0.0,yes
+U49,Zambia,GAUL2,Chibombo,1,5,yes,0.127,rural,0.0,yes,76.347,no
+U50,Zambia,GAUL2,Chililabombwe,1,4,yes,2.472,rural,84.902,no,0.0,yes
+U51,Zambia,GAUL2,Kalomo,1,7,yes,0.087,rural,0.0,yes,0.0,yes
+U52,Zambia,GAUL2,Livingstone,1,7,yes,5.416,rural,0.0,yes,0.0,yes
+U53,Zambia,GAUL2,Mazabuka,1,6,yes,0.267,rural,0.0,yes,33.609,no
+U54,Zambia,GAUL2,Mbala,1,3,yes,0.181,rural,44.6,no,0.0,yes
+U55,Zambia,GAUL2,Monze,1,6,yes,0.278,rural,0.0,yes,47.282,no
+U56,Zambia,GAUL2,Mumbwa,1,6,yes,0.069,rural,0.0,yes,107.542,no
+U57,Zambia,GAUL2,Mungwi,1,3,yes,0.098,rural,51.071,no,35.494,no
+U58,Zambia,GAUL2,Namwala,1,6,yes,0.077,rural,0.0,yes,120.751,no
+U59,Zambia,GAUL2,Siavonga,1,7,yes,0.308,rural,0.0,yes,0.0,yes
+U60,Zimbabwe,GAUL2,Chiredzi,1,11,yes,0.063,rural,0.0,yes,0.0,yes
